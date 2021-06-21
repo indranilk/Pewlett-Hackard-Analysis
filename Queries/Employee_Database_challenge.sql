@@ -86,15 +86,4 @@ ORDER BY emp_no;
 
 SELECT * FROM mentorship_eligibility;
 
-SELECT title 
-From mentorship_eligibility
-WHERE (title = 'Senior Engineer');
-
-SELECT title 
-From mentorship_eligibility
-WHERE (title = 'Senior Staff');
-
-SELECT title 
-From mentorship_eligibility
-WHERE (title = 'Engineer');
 
