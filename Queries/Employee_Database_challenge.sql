@@ -1,3 +1,4 @@
+--Deliverable 1
 
 SELECT * FROM Employees;
 
@@ -58,6 +59,8 @@ GROUP BY title
 ORDER BY COUNT DESC;
 
 SELECT * FROM retiring_titles;
+
+-- Deliverable 2
 
 SELECT emp_no, first_name, last_name, birth_date FROM Employees;
 
